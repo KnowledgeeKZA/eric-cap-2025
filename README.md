@@ -10,6 +10,5 @@ This portfolio demonstrates advanced capability in:
 - High-stakes, high-pressure systems stabilization  
 
 📄 **Download Full Cognitive Architecture Portfolio (CAP)**
-[Cognitive Architecture Portfolio — CAP_IBM_FINAL.pdf](./CAP_IBM_FINAL.pdf)
 ---
 ## 📁 Repository Structure 
