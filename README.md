@@ -12,6 +12,7 @@ This portfolio demonstrates advanced capability in:
 The documents in this repository represent my professional architecture work,
 strategic thinking frameworks, and applied system-design models across nonprofit,
 cloud infrastructure, and enterprise-alignment environments.
-
+📄 **Download Full Cognitive Architecture Portfolio (CAP)**
+[Cognitive Architecture Portfolio — CAP_IBM_FINAL.pdf](./CAP_IBM_FINAL.pdf)
 ---
 ## 📁 Repository Structure 
