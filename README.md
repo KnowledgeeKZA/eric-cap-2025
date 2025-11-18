@@ -17,7 +17,7 @@ enterprise alignment, AI-adjacent environments, and cloud-infrastructure stabili
 ---
 
 ## 📄 Download Full Cognitive Architecture Portfolio (CAP)
-**Complete 45-page executive architecture portfolio used for IBM Quantum–adjacent review cycles.**
+**Complete executive architecture portfolio used for IBM Quantum–adjacent review cycles.**
 
 👉 [**Cognitive Architecture Portfolio — CAP_IBM_FINAL.pdf**](./CAP_IBM_FINAL.pdf)
 
